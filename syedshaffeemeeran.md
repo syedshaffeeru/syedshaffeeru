@@ -94,6 +94,6 @@ An Analytical Engineer role offers opportunities for growth in various direction
 ## 📞 Contact
 For collaboration or queries, feel free to connect via:
 - 📧 **Email:** syedshaffee@gmail.com
-- 🔗 **LinkedIn:** [Syed Shaffee Meeran](https://www.linkedin.com/in/syedshaffee-meeran-3547ab59/)
-- 🐙 **GitHub:** [Your GitHub Profile]
+- 🔗 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/syedshaffee-meeran-3547ab59/)
+- 🐙 **GitHub:** [GitHub Profile](https://raw.githubusercontent.com/syedshaffeeru/syedshaffeemeeran/refs/heads/Dev/syedshaffeemeeran.md)
 - 🌐 **Portfolio:** [Syed Shaffee's Portfolio](https://www.syedshaffee.com)
