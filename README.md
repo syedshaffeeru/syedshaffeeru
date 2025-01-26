@@ -106,3 +106,9 @@ For collaboration or queries, feel free to connect via:
 - 🔗 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/syedshaffee-meeran-3547ab59/)
 - 🐙 **GitHub:** [GitHub Profile](https://raw.githubusercontent.com/syedshaffeeru/syedshaffeemeeran/refs/heads/Dev/syedshaffeemeeran.md)
 - 🌐 **Portfolio:** [Syed Shaffee's Portfolio](https://www.syedshaffee.com)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
