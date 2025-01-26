@@ -1,13 +1,13 @@
 # Analytical Engineer
 
-# Syed Shaffee
+# SyedShaffee Meeran
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Hand%20Wave.gif" width='40' align="left"/>
 
 ## 🛠 Overview
 The role of an Analytical Engineer is to bridge the gap between data engineering and data analysis by designing, building, and maintaining robust, scalable data systems that enable insightful analytics.
 
-![Overview Image](https://via.placeholder.com/800x400?text=Analytical+Engineer+Overview)
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="shaffee-pw" /></p>
 
 ## 📋 Responsibilities
 - 🔧 Develop and maintain data pipelines to ensure the availability of clean and reliable data.
@@ -17,7 +17,6 @@ The role of an Analytical Engineer is to bridge the gap between data engineering
 - ✅ Ensure data quality and integrity through validation and monitoring.
 - 📝 Document data systems, pipelines, and processes for cross-functional teams.
 
-![Responsibilities Image](https://via.placeholder.com/800x400?text=Responsibilities)
 
 ## 🧰 Skills and Qualifications
 - **Technical Skills:**
@@ -34,7 +33,6 @@ The role of an Analytical Engineer is to bridge the gap between data engineering
   - 🗣️ Effective communication with technical and non-technical stakeholders.
   - 🤝 Team collaboration and adaptability.
 
-![Skills Image](https://via.placeholder.com/800x400?text=Skills+and+Qualifications)
 
 ## 🛠️ Tech Stack and Tools
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -46,36 +44,56 @@ The role of an Analytical Engineer is to bridge the gap between data engineering
 ![Airflow](https://img.shields.io/badge/-Apache%20Airflow-05122A?style=flat&logo=apache-airflow)&nbsp;
 ![dbt](https://img.shields.io/badge/-dbt-05122A?style=flat&logo=dbt)&nbsp;
 
-![Tools and Technologies Image](https://via.placeholder.com/800x400?text=Tools+and+Technologies)
-
 ## 🌟 Career Path
 An Analytical Engineer role offers opportunities for growth in various directions:
 - 🏗️ Data Architect
 - 📊 Analytics Manager
 - 🤖 Data Science Engineer
 
-![Career Path Image](https://via.placeholder.com/800x400?text=Career+Path)
 
 ## 🚀 Projects and Contributions
-- [📂 Project Name 1]: Brief description of the project.
-- [📂 Project Name 2]: Brief description of the project.
+- [📂 AUTOMATE DATAFLOW REFRESHES]: Consolidated schedules using Airflow, resolving timing issues and achieving cost efficiency.
+- [📂 AUTOMATE DATASET REFRESHES]: Our organization operates a complex Power BI ecosystem, with approx. 184 datasets and dataflows sourced from multiple databases, cloud services, and external APIs. These datasets power critical business reports used by different departments across the company. The current schedule refresh process is becoming increasingly cumbersome and unreliable, often resulting in data refreshes of the tables which are not required, and it eventually led to performance bottlenecks.
+  - To address these challenges, we need to implement an enhanced Power BI API refresh.
+  - That automates refresh operations trageting specific tables
+  - We have a sematic model that holds all the tables respective dataflowID's
+  - Airflow dags checks the status of the dataflow refreshes every twenty mintues
+  - Fires a query on the semantic models to get filtering the dataflows where the refresh has finished
+  - Triggers a table refresh on the models that are pointing to those specific dataflows
+
+- [📂 SENDING DATA TO HR SYSTEM(Woven)]:The client's requirements were tricky as they wanted data from Power BI to be pushed to their HR systems. We were able to achieve this using PowerApps and PowerBI.
+    - The data was stored in Azure SQL DB from the API.
+    - ADF Pipelines were used for getting data in from the API.
+    - Power Automate was used for sending Projections data via the API to the HR systems(Woven).
+    - Git was used for version control.
+    - Tabular editor was used for Model development.
+
+ - [📂 Daily Tracker]:The user has a specific requirement where he wants to see the trends but wanted the current trend to be controlled by the user. We Came up with a solution where the user can achieve the same.
+     - The data was stored in ADLS gen2 as a CSV format.
+     - Part of the data stored in clients Azure SQL DB managed instance.
+     - Transformation was done in Power BI Data Flow and used in our dataset.
+     - Complex expression where written in DAX.
+     - Git was used for version control.
+     - Tabular editor was used for Model development
+
+ - [📂 Daily Tracker]:Health Cards where the users can identify which Business process they need to improve and focus on. The Configuration of the rag is completely Dynamic. The overall Rag is based on the weightage that is set by the user on the report
+     - The data was stored Azure SQL DB managed instance
+     - Part of the data stored in Blob Storage as a staging layer
+     - Synapse was used for a gold layer
+     - Data was model in Azure analytical services and pulled into Power-BI
+     - Complex expression where written in DAX for to identify which rags it is falling under based on users Configuration
+     - Git was used for version control.
+     - abular editor was used for Model enhancements
 
 ## 📚 Resources
 - 📖 Books: "The Data Warehouse Toolkit" by Ralph Kimball, "Designing Data-Intensive Applications" by Martin Kleppmann.
 - 💻 Online Courses: dbt Learn, SQL for Data Analysis, and Power BI Essentials.
 - 🌐 Communities: dbt Slack Community, Local Data Meetups, Online Forums.
 
-![Resources Image](https://via.placeholder.com/800x400?text=Resources)
 
 ## 📞 Contact
 For collaboration or queries, feel free to connect via:
-- 📧 **Email:** [Your Email Address]
-- 🔗 **LinkedIn:** [Your LinkedIn Profile]
+- 📧 **Email:** syedshaffee@gmail.com
+- 🔗 **LinkedIn:** [Syed Shaffee Meeran](https://www.linkedin.com/in/syedshaffee-meeran-3547ab59/)
 - 🐙 **GitHub:** [Your GitHub Profile]
 - 🌐 **Portfolio:** [Syed Shaffee's Portfolio](https://www.syedshaffee.com)
-
-![Contact Image](https://via.placeholder.com/800x400?text=Contact+Details)
-
----
-
-**Note:** Replace placeholders (e.g., [Project Name 1], [Your Email Address]) with actual details before publishing.
