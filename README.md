@@ -104,7 +104,7 @@ For collaboration or queries, feel free to connect via:
 
 - 📧 **Email:** syedshaffee@gmail.com
 - 🔗 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/syedshaffee-meeran-3547ab59/)
-- 🐙 **GitHub:** [GitHub Profile](https://raw.githubusercontent.com/syedshaffeeru/syedshaffeemeeran/refs/heads/Dev/syedshaffeemeeran.md)
+- 🐙 **GitHub:** [GitHub Profile](https://github.com/syedshaffeeru/syedshaffeemeeran/blob/Dev/README.md)
 - 🌐 **Portfolio:** [Syed Shaffee's Portfolio](https://www.syedshaffee.com)
 
 <picture>
